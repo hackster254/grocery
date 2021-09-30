@@ -20,10 +20,14 @@ Clone and download the repo [Grocery](https://github.com/hackster254/grocery/) a
 
 Create the database grocery on MySQL workbench and note the username and password.
 
+Run the sql query scripts to create the item and billing tables on the grocery schema.
+
+Run the Windows Form application on Visual Basic
+
+For access to Item page use username: A and password: P 
+
 ```sh
-cd dillinger
-npm i
-node app
+For access to Item page use username: A and password: P 
 ```
 
 ## License
