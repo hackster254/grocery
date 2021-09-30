@@ -23,8 +23,7 @@ Create the database grocery on MySQL workbench and note the username and passwor
 Run the sql query scripts to create the item and billing tables on the grocery schema.
 
 Run the Windows Form application on Visual Basic
-
-For access to Item page use username: A and password: P 
+ 
 
 ```sh
 For access to Item page use username: A and password: P 
