@@ -1,7 +1,7 @@
 # Grocery Management System
 This is a Grocery management application with Visual Basic and mySQL database with crystal reports.
 
-This is a Grocery Management Winodws for application that utilizes:
+The Grocery Management desktop application that makes use of the following technologies:
 
 - Visual Basic 
 - MySQL
