@@ -14,6 +14,17 @@ This is a Grocery Management Winodws for application that utilizes:
 - Crystal reports - Generates reports for bills and item page
 
 
+## Installation
+
+Clone and download the repo [Grocery](https://github.com/hackster254/grocery/) and run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+cd dillinger
+npm i
+node app
+```
 
 ## License
 
