@@ -30,7 +30,17 @@ For access to Item page use username: A and password: P
 ```
 ## Photos
 
-![Login Page](https://github.com/hackster254/grocery/blob/master/login_page.PNG)
+![LoginPage](https://github.com/hackster254/grocery/blob/master/login_page.PNG)
+
+![Item Page](https://github.com/hackster254/grocery/blob/master/item_page.PNG)
+
+![Billing Page](https://github.com/hackster254/grocery/blob/master/billing_page.PNG)
+
+### Crystal reports
+
+![Item Report](https://github.com/hackster254/grocery/blob/master/item_crystalreport.PNG)
+
+![Bill Report](https://github.com/hackster254/grocery/blob/master/bill_crystalreport.PNG)
 
 ## License
 
