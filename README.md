@@ -30,7 +30,7 @@ For access to Item page use username: A and password: P
 ```
 ## Photos
 
-Want to contribute? Great!
+![Login Page](https://github.com/hackster254/grocery/blob/master/login_page.PNG)
 
 ## License
 
