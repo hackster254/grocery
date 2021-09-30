@@ -18,7 +18,7 @@ This is a Grocery Management Winodws for application that utilizes:
 
 Clone and download the repo [Grocery](https://github.com/hackster254/grocery/) and run.
 
-Install the dependencies and devDependencies and start the server.
+Create the database grocery on MySQL workbench and note the username and password.
 
 ```sh
 cd dillinger
